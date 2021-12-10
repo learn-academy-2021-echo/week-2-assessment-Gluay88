@@ -8,9 +8,9 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is the difference between a parameter and an argument?
 
-  Your answer:
+  Your answer: A parameter is a name of variable we pass it into a function but an argument is the real value we pass it into the function.
 
-  Researched answer:
+  Researched answer: A parameter is a named variable passed into a function. Parameter variables are used to import arguments into functions. An argument is a value (primitive or object) passed as input to a function.
 
 
 
