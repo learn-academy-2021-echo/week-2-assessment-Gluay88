@@ -10,8 +10,8 @@
 var cohort = "Echo 2021"
 // console.log(cohort.split(""))
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: ["E", "c", "h", "o", " ", "2", "0", "2", "1"]
+// b) Verify and explain: The split() method splits a string into an array and then returns a new array (it dosen't change the original string).
 
 
 // --------------------2) What will this log?
@@ -19,9 +19,9 @@ var cohort = "Echo 2021"
 const greeter = (name) => {
   `Hello, ${name}!`
 }
-// console.log(greeter("LEARN Student"))
+console.log(greeter("LEARN Student"))
 
-// a) Your answer:
+// a) Your answer: undifined
 // b) Verify and explain:
 
 
